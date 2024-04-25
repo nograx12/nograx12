@@ -1,5 +1,5 @@
 ### Hi there 👋
-![https://github.com/nograx12/nograx12]([https://humanidades.com/wp-content/uploads/2018/08/informatica-e1575679570321.jpg](https://i.pinimg.com/736x/5c/7d/cc/5c7dccbd4ef8dd336c5a6880faaa469e.jpg))
+![https://github.com/nograx12/nograx12](https://i.pinimg.com/736x/5c/7d/cc/5c7dccbd4ef8dd336c5a6880faaa469e.jpg)
 
 
 **nograx12/nograx12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
